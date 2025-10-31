@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Adrian Apsay
-adapsay@ucsd.edu
+Adrian Apsay and Julia Jung
